@@ -1,0 +1,27 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Poppins', sans-serif;
+    background: #fff;
+}
+
+section {
+    padding: 100px 0;
+}
+
+section .section-title {
+    text-align: center;
+    color: #007bff;
+    margin-bottom: 50px;
+    text-transform: uppercase;
+}
+
+#footer {
+    background: #007bff;
+    color: #fff;
+    padding: 55px;
+}
